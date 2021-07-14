@@ -1,4 +1,5 @@
 '''
+#using for loop
 num = int(input("Enter a number:"))
 count = 0
 for i in range(1,num+1):
@@ -10,7 +11,7 @@ else:
     print("The Number is not a prime number. ")
 '''
 
-
+#using while loop
 num = int(input("Enter a  number:"))
 i=1
 c=0
